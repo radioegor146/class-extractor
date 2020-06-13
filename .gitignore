@@ -1,0 +1,12 @@
+.gradle
+build/
+
+!gradle-wrapper.jar
+
+output/
+
+*.log
+hs_err_pid*
+/.nb-gradle/
+
+.idea/*
